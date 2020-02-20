@@ -1,2 +1,2 @@
 Hello git from master
-Hello rebase
+Hello cherry-pick
