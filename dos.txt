@@ -1,2 +1,3 @@
 New line1
 New line2
+Hello, Git from branch feature
